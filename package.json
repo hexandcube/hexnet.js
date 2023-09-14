@@ -1,5 +1,5 @@
 {
-  "name": "hexnet",
+  "name": "@hexandcube/hexnet",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
